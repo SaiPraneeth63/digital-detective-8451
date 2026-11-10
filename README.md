@@ -21,3 +21,11 @@ Every mission is completed, documented, and committed separately. Use the links 
 - Mission 7: [Computer Networks and Communication](mission-07-networking/README.md)
 - Mission 8: [Final Review and Submission Report](mission-08-final-report/README.md)
 
+## My Learning
+Throughout these missions, I have gained a strong foundational understanding of computer systems and software engineering workflows:
+- Computer Basics & IPOS: Learned how digital devices process information using the Input, Processing, Output, and Storage model, and how hardware and software work together.
+- Terminal & File Operations: Mastered command-line navigation, file management, command flags, and data pipes.
+- Operating Systems: Explored OS responsibilities, process management via PIDs, absolute/relative paths, and file permission attributes (`rwx`).
+- Program Execution: Understood the fundamental differences between compilers and interpreters while executing Python scripts.
+- Data Representation: Practiced manual and programmatic conversions between decimal, binary, and hexadecimal systems, alongside text-encoding principles (ASCII and UTF-8).
+- Version Control: Learned professional collaboration workflows using Git staging, committing, branching, and GitHub Pull Requests.:
