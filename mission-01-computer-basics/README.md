@@ -29,18 +29,18 @@ I learnt how to make a table manually in VS code and also installed an extension
 ### Task 1.2: Hardware and Software Classification
 | Item / Software Name | Hardware or Software? | Software Type (if applicable) | Purpose |
 | :--- | :--- | :--- | :--- |
-| Keyboard | Hardware[cite: 4] | Not applicable[cite: 4] | Used to enter text |
-| Windows / macOS | Software | Operating system software[cite: 4] | Manages computer hardware and resources |
-| VS Code | Software | Application software[cite: 4] | Helps users perform tasks like writing code |
-| Antivirus | Software | Utility software[cite: 4] | Helps maintain, protect, or manage the computer |
+| Keyboard | Hardware | Not applicable | Used to enter text |
+| Windows / macOS | Software | Operating system software | Manages computer hardware and resources |
+| VS Code | Software | Application software| Helps users perform tasks like writing code |
+| Antivirus | Software | Utility software | Helps maintain, protect, or manage the computer |
 
 ### Task 1.3: Computer Systems Around You
 | System | Main Purpose | One Input | One Output |
 | :--- | :--- | :--- | :--- |
-| ATM | Dispense cash and check balances[cite: 4] | Keypad / Inserted card | Cash dispensed / Receipt printed |
-| Smart TV | Stream media content over the internet[cite: 4] | Remote control button press | Video and audio played on screen |
-| Traffic Signal | Control flow of vehicles at intersections[cite: 4] | Timer / Sensor signal | Colored light display (Red/Yellow/Green) |
+| ATM | Dispense cash and check balances | Keypad / Inserted card | Cash dispensed / Receipt printed |
+| Smart TV | Stream media content over the internet | Remote control button press | Video and audio played on screen |
+| Traffic Signal | Control flow of vehicles at intersections | Timer / Sensor signal | Colored light display (Red/Yellow/Green) |
 
 ## 8. Commit details
-- Commit message: "Complete computer basics and IPOS mission"[cite: 13]
+- Commit message: "Complete computer basics and IPOS mission"
 - Pushed successfully to GitHub.

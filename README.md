@@ -13,7 +13,7 @@ Every mission is completed, documented, and committed separately. Use the links 
 
 - Mission 0: [Repository and Workspace Setup ](mission-00-setup/README.md)
 - Mission 1: [Computer Fundamentals and IPOS ](mission-01-computer-basics/README.md)
-- Mission 2: [Terminal and File Management ](mission-02terminal-/README.md)[cite: 5]
+- Mission 2: [Terminal and File Management ](mission-02terminal-/README.md)
 - Mission 3: [Operating System, Processes, and Permissions ](mission-03-operating-system/README.md)
 - Mission 4: [How Programs Run (Python & Interpreters/Compilers) ](mission-04-programs/README.md)
 - Mission 5: [Number Systems, Data Representation, and Python Converter](mission-05-numbers-data/README.md)
