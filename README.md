@@ -23,9 +23,17 @@ Every mission is completed, documented, and committed separately. Use the links 
 
 ## My Learning
 Throughout these missions, I have gained a strong foundational understanding of computer systems and software engineering workflows:
-- Computer Basics & IPOS: Learned how digital devices process information using the Input, Processing, Output, and Storage model, and how hardware and software work together.
-- Terminal & File Operations: Mastered command-line navigation, file management, command flags, and data pipes.
-- Operating Systems: Explored OS responsibilities, process management via PIDs, absolute/relative paths, and file permission attributes (`rwx`).
-- Program Execution: Understood the fundamental differences between compilers and interpreters while executing Python scripts.
-- Data Representation: Practiced manual and programmatic conversions between decimal, binary, and hexadecimal systems, alongside text-encoding principles (ASCII and UTF-8).
-- Version Control: Learned professional collaboration workflows using Git staging, committing, branching, and GitHub Pull Requests.:
+- Computer Basics & IPOS: Learned how digital devices process information using the Input, Processing, Output, and Storage model, and how hardware and software work together and can be reprogrammable.
+- Terminal & File Operations: Practiced command-line Interface, file management, command flags, and data pipes.
+- Operating Systems: Explored OS responsibilities, process management through  PIDs, absolute/relative paths, and file permission attributes (`rwx`).
+- Program Execution: Understood the fundamental differences between compilers and interpreters by executing Python scripts.
+- Data Representation: Practiced manual and programmatic conversions between decimal, binary, and hexadecimal systems.
+- Version Control: Learned how to  collaborate workflows using Git staging, committing, branching, and GitHub Pull Requests.
+Networking: understanding network types (LAN, WAN), DNS lookups, routing, and client-server communication.
+
+##  How to Run the Python Scripts
+some  missions contains Python scripts. You can run them from your terminal using Python 3 command to run those pythin files.
+
+### Number Converter (Mission 5)
+To execute the multi-base number conversion script:
+python3 mission-05-numbers-data/number_converter.py
